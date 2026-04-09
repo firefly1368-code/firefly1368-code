@@ -3,12 +3,12 @@
 
 Welcome to my GitHub profile!  
 I'm currently a **student in TJKT (Computer & Network Engineering)** with a strong interest in **Cyber Security**.  
-I enjoy programming, ethical hacking, and exploring how technology really works — from networks to systems security.  
+I enjoy programming, ethical hacking, and exploring how technology really works from networks to systems security.  
 
 💻 I'm learning and building projects in:  
 - Python, JavaScript, and Bash  
-- Networking & Linux Administration  
-- Cyber Security fundamentals, Pentesting, and SOC skills  
+- Networking,Linux or something i want build  
+- Cyber Security fundamentals, Pentesting, and Soc skills  
 
 ---
 
@@ -34,7 +34,7 @@ I enjoy programming, ethical hacking, and exploring how technology really works 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/riski-akbar-a7b20a363/
 - 📷 Instagram: https://www.instagram.com/saotome_risu/
-- 📧 Email: muhammadriskiakbar2009@gmail.com  
+- 📧 Email:firefly1368@gmail.com
 
 ---
 
