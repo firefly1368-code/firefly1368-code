@@ -38,9 +38,7 @@ I enjoy programming, ethical hacking, and exploring how technology really works 
 
 ---
 
-⚡ *"Hack to learn. Learn to protect. Stay curious."*<!--
-**FireflyIsMywife26710/FIREflyIsMywife26710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+⚡ *"Hack to learn. Learn to protect. Stay curious."*
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing
