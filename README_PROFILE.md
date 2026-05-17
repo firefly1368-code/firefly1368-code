@@ -167,7 +167,7 @@ class RiskiAkbar:
 <div align="center">
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/firefly1368-code/firefly1368-code/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation] (https://tenor.com/view/firefly-firefly-hsr-firefly-neko-firefly-cat-ホタル-gif-17096522166100577446)
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling" width="100%"/>
