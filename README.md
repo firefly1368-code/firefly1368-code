@@ -48,11 +48,11 @@ When I'm not hacking, you'll find me lost in:
 ║                              ║
 ║  Name   : Riski Akbar        ║
 ║  Skill:                      ║
-║  [Python    ] ██░ 50%        ║
-║  [Bash      ] ███░░░ 20%     ║
-║  [Linux     ] ████░░ 70%     ║
-║  [Pentesting] ████░░░░ 600%  ║
-║  [Networking] ███░░░ 20%     ║
+║  [Python    ] ██20%          ║
+║  [Bash      ] ███ 30%        ║
+║  [Linux     ] ████60%        ║
+║  [Pentesting] ████60%        ║
+║  [Networking] ███40%         ║
 ║  [Otaku lvl ] ██████████ 99% ║
 ╚══════════════════════════════╝
 ```
