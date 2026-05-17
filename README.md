@@ -101,7 +101,7 @@ class RiskiAkbar:
         self.alias      = "firefly1368-code🦋"
         self.role       = ["Ethical Hacker", "Tool Builder", "Otaku"]
         self.school     = "TJKT - Computer & Network Engineering"
-        self.learning   = ["Penetration Testing", "SOC Skills", "CTF", "learning what I like]
+        self.learning   = ["Penetration Testing", "SOC Skills", "CTF", "Learning what I like]
         self.building   = ["Security Tools", "Monitoring Stack", "Whatever I want!"]
         self.hobbies    = ["Manga 📖", "Manhwa 📚", "Anime 🌸", "gacha waifu"]
         self.waifu      = "Firefly (Honkai: Star Rail) "
