@@ -115,23 +115,6 @@ class RiskiAkbar:
 
 ---
 
-## 📊 GitHub Stats — 統計
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=firefly1368-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B4BEFE&icon_color=B4BEFE&text_color=CDD6F4"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firefly1368-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B4BEFE&text_color=CDD6F4"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=firefly1368-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=B4BEFE&ring=B4BEFE&fire=F38BA8&currStreakLabel=CDD6F4)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 📖 Otaku Corner — オタクコーナー
 
