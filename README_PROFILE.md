@@ -31,9 +31,8 @@
 Halo! I'm **Riski**, a Cyber Security student from **TJKT (Teknik Komputer & Jaringan Telekomunikasi)** who's deeply passionate about breaking things to understand how they work — the ethical way, of course.
 
 When I'm not hacking, you'll find me lost in:
-- 📖 Reading **manga & manhwa** (Solo Leveling, Chainsaw Man, you name it)
-- 🎮 Playing **Honkai: Star Rail** (Firefly main, obviously 🦋)
-- 🌙 Watching anime at 3AM like a true otaku
+- 📖 Reading **manga & manhwa** (Solo Leveling, Chainsaw Man, and kaguya-sama:love is war and toradora!)
+- 🌙 watching anime until I forget the time during free time
 
 **Current Arc:** *"The Cyber Security Awakening"* 🔐
 
@@ -51,11 +50,11 @@ When I'm not hacking, you'll find me lost in:
 ║  Path   : The Hunt 🎯        ║
 ║  Faction: Stellaron Hunter   ║
 ║                              ║
-║  [Python    ] ████████░░ 80% ║
-║  [Bash      ] ███████░░░ 70% ║
-║  [Linux     ] ████████░░ 80% ║
-║  [Pentesting] ██████░░░░ 60% ║
-║  [Networking] ███████░░░ 70% ║
+║  [Python    ] ██░ 50% ║
+║  [Bash      ] ███░░░ 20% ║
+║  [Linux     ] ████░░ 70% ║
+║  [Pentesting] ████░░░░ 600% ║
+║  [Networking] ███░░░ 20% ║
 ║  [Otaku lvl ] ██████████ 99% ║
 ╚══════════════════════════════╝
 ```
