@@ -39,22 +39,20 @@ When I'm not hacking, you'll find me lost in:
 </td>
 <td width="45%" valign="top">
 
-## 🦋 Firefly Stats
+## My Stats
 
 ```
 ╔══════════════════════════════╗
-║  TRAILBLAZER PROFILE         ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  PROFILE                     ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░   ║
 ║                              ║
 ║  Name   : Riski Akbar        ║
-║  Path   : The Hunt 🎯        ║
-║  Faction: Stellaron Hunter   ║
-║                              ║
-║  [Python    ] ██░ 50% ║
-║  [Bash      ] ███░░░ 20% ║
-║  [Linux     ] ████░░ 70% ║
-║  [Pentesting] ████░░░░ 600% ║
-║  [Networking] ███░░░ 20% ║
+║  Skill:                      ║
+║  [Python    ] ██░ 50%        ║
+║  [Bash      ] ███░░░ 20%     ║
+║  [Linux     ] ████░░ 70%     ║
+║  [Pentesting] ████░░░░ 600%  ║
+║  [Networking] ███░░░ 20%     ║
 ║  [Otaku lvl ] ██████████ 99% ║
 ╚══════════════════════════════╝
 ```
@@ -100,19 +98,19 @@ When I'm not hacking, you'll find me lost in:
 class RiskiAkbar:
     def __init__(self):
         self.name       = "Muhammad Riski Akbar"
-        self.alias      = "firefly1368 🦋"
+        self.alias      = "firefly1368-code🦋"
         self.role       = ["Ethical Hacker", "Tool Builder", "Otaku"]
         self.school     = "TJKT - Computer & Network Engineering"
-        self.learning   = ["Penetration Testing", "SOC Skills", "CTF"]
-        self.building   = ["Security Tools", "Monitoring Stack (LightMon)", "???"]
-        self.hobbies    = ["Manga 📖", "Manhwa 📚", "Anime 🌸", "HSR 🎮"]
-        self.waifu      = "Firefly (Honkai: Star Rail) 🦋"
+        self.learning   = ["Penetration Testing", "SOC Skills", "CTF", "learning what I like]
+        self.building   = ["Security Tools", "Monitoring Stack", "whatever I want!"]
+        self.hobbies    = ["Manga 📖", "Manhwa 📚", "Anime 🌸", "gacha waifu"]
+        self.waifu      = "Firefly (Honkai: Star Rail) "
 
     def current_arc(self):
         return "The Awakening of a Stellaron Hunter 🔐✨"
 
     def ask_me_about(self):
-        return ["Cyber Security", "Linux", "Anime recs", "Manhwa recs 👀"]
+        return ["Cyber Security", "Linux", "Anime recs", "Manhwa recs 👀", "a useful project for everyone"]
 ```
 
 ---
@@ -143,10 +141,10 @@ class RiskiAkbar:
 |---|---|---|---|
 | Chainsaw Man | Chainsaw Man | Solo Leveling | Honkai: Star Rail |
 | Attack on Titan | Berserk | Omniscient Reader | Genshin Impact |
-| Steins;Gate | Vagabond | The Beginning After The End | ... |
-| Death Note | One Piece | Eleceed | ... |
+| Steins;Gate | Vagabond | The Beginning After The End | WUthering wave|
+| Death Note | One Piece | Eleceed | Hongkai star rail |
 
-> *"An otaku who hacks, or a hacker who watches anime? Yes."* 🌸
+> *"An otaku who hacks, or a hacker who watches anime? Yes thats me."* 🌸
 
 </div>
 
